@@ -1,11 +1,15 @@
 {
-        "version": "2.13.0",
+        "version": "1.0.0",
         "name": "Number Manager",
         "description": "Allows users to view their services.",
         "authors": [
                 {
-                        "name": "Phillips Data, Inc.",
-                        "url": "http://blesta.com"
+                        "name": "Ishwarya",
+                        "url": ""
+                },
+                {
+                        "name": "Bo",
+                        "url": ""
                 }
         ]
 }
